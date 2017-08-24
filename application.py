@@ -20,7 +20,7 @@ def search():
     if not screen_name:
         return redirect(url_for("index"))
     
-    # get screen_name's tweets if screen_name is invalid
+    # get screen_name's tweets if screen_name exists
     if helpers.get_user_timeline(screen_name) != None:
         tweets = helpers.get_user_timeline(screen_name)
     else:
