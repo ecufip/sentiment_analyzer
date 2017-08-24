@@ -12,6 +12,7 @@ It is my response to the Harvard CS50 course pset6.
 2. Go to Keys and Access Tokens to find Consumer Key (API Key) and Consumer Secret (API Secret). Input these values into the terminal in the root directory:
 
     $ export API_KEY='API Key'
+    
     $ export API_SECRET='API Secret'
 
 ## To install dependencies:
