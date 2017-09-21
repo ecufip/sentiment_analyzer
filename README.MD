@@ -4,7 +4,7 @@
 
 This is a simple sentiment analyzer. It takes a twitter handle and outputs a bar chart visualizing the sentiments of that handles last 200 tweets.
 
-It is my response to the Harvard CS50 course pset6.
+The example comes from the Harvard CS50 course pset6.
 
 ## To set up:
 
